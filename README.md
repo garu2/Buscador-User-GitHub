@@ -1,6 +1,5 @@
 # Buscador User GitHub
-tra 
-
+Hacemos un pequeño proyecto de un buscador de usuario de Github (js).
 **Tutorial**
 <br/><br/>
 https://youtu.be/dtEW8IQ-HjM
